@@ -1,5 +1,7 @@
-from tictactoe.tictactoe import TicTacToe
+from tictactoe.symbol import Symbol
 
 
 class Player:
-    pass
+    def __init__(self):
+        self.symbol = Symbol()
+
