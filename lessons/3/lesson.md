@@ -79,9 +79,9 @@ class TicTacToe:
 Game <|-- TicTacToe
 ```
 
-The has-a relationship can be programmed in Python like this:
-
 ![http://www.plantuml.com/plantuml/svg/SoWkIImgAStDuN9Fp4rLiAdHrLK8oKmEIKmEoK_bSaZDIm7A0G00](http://www.plantuml.com/plantuml/svg/SoWkIImgAStDuN9Fp4rLiAdHrLK8oKmEIKmEoK_bSaZDIm7A0G00)
+
+The has-a relationship can be programmed in Python like this:
 
 ```python
 class TicTacToe(Game):
