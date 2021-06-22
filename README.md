@@ -22,7 +22,11 @@ An intro to object oriented programming by making Tic-Tac-Toe. Includes notes fr
     1. After making your own account, head to this repo again at https://github.com/joshuahaertel/tictactoe
     1. Click the `Fork` button on top right hand of the page
 
-1. Clone this repo (Note, this may require installing `git`. If the following instructions don't work, follow the instructions at https://git-scm.com/downloads and try again)
+1. Install `git`
+    1. Download it for your OS at https://git-scm.com/downloads
+    1. Default options should be fine.
+
+1. Clone this repo
     1. When opening a new VSCode window, there will be an option that says `Clone Git Repositiory...`
         1. You can also press `ctrl` + `shift` + `p` and start typing `Git: Clone`
     1. Paste the URL of the repo into the text box that comes up. If you did not create a github account to save your work in the cloud, the URL will be `https://github.com/joshuahaertel/tictactoe.git`. Otherwise, the URL can be found by going to the repo on our you own account, selecting the green `code` button, and copying the `HTTPS` URL there. It will look the exact same except instead of the username `joshuahaertel`, your own username will be used
