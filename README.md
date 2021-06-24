@@ -7,11 +7,11 @@ An intro to object oriented programming by making Tic-Tac-Toe. Includes notes fr
 1. Download VSCode from https://code.visualstudio.com/
     1. Default settings should be sufficient for install and first time setup, though feel free to customize it however you would like.
 
-1. Download and install the following plugins by opening VSCode and pressing `ctrl` + `p`. Then paste the following commands in the command pallete:
+1. Download and install the following plugins by opening VSCode and pressing `ctrl` + `p`. Then paste the following command in the command pallete:
 
-    | Plugin | Command | Purpose
+    | Command | Plugin | Purpose
     | - | -| - |
-    | Sass/Less/Stylus/Pug/Jade/Typescript/Javascript Compile Hero Pro | `ext install Wscats.eno` | Transpile code for immediate use |
+    | `ext install Wscats.eno` | Sass/Less/Stylus/Pug/Jade/Typescript/Javascript Compile Hero Pro | Transpile code for immediate use |
 
 1. Ensure Auto Save is on in VSCode:
     1. `File` -> `Auto Save`
