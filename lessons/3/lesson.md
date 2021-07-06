@@ -32,6 +32,6 @@ class Player {
 }
 ```
 
-Homework assignment: Finish adding the verbs to the nouns, following the `Player class` example.
+Homework assignment: Finish adding the verbs to the nouns in plantUML, following the `Player class` example.
 
 Hint: There are 5 more verbs to add that belong to `Player`s and 3 other nouns.
