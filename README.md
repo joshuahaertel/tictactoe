@@ -27,6 +27,11 @@ An intro to object oriented programming by making Tic-Tac-Toe. Includes notes fr
     1. Download it for your OS at https://git-scm.com/downloads
     1. Default options should be fine.
     1. If you have VSCode open, you will have to close it and then reopen it.
+    1. Configure your username and email in git by opening up a terminal with `ctrl` + ` and pasting the following (edit it with your name and email)
+    ```
+    git config --global user.email "you@example.com"
+    git config --global user.name "Your Name"
+    ```
 
 1. Clone this repo
     1. When opening a new VSCode window, there will be an option that says `Clone Git Repositiory...`
