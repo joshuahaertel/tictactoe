@@ -1,14 +1,21 @@
 class Player {
-    symbol: TTTSymbol
+    game: Game
+    symbol: PlayerSymbol
+    grid: Grid
 
-    constructor(symbol: TTTSymbol) {
-        this.symbol = symbol
+    choose(symbol: PlayerSymbol) {
+        // TODO: write me
     }
 
-    play(symbol: TTTSymbol): TTTSymbol {
-        return symbol
+    play(game: Game) {
+        // TODO: write me
+    }
+
+    put(symbol: PlayerSymbol, grid: Grid) {
+        // TODO: write me
+    }
+
+    win() {
+        // TODO: write me
     }
 }
-
-const playerOne = new Player(TTTSymbol.X)
-const playerTwo = new Player(TTTSymbol.O)

@@ -1,4 +1,5 @@
-enum TTTSymbol {
-    X = "X",
-    O = "O"
+class PlayerSymbol {
+    go() {
+        // TODO: write me
+    }
 }
